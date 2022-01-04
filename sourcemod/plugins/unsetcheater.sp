@@ -1,6 +1,6 @@
 #include <sourcemod>
 
-#define PLUGIN_VERSION "1.0.0"
+#define PLUGIN_VERSION "1.1.0"
 
 #pragma newdecls required
 #pragma semicolon 1
